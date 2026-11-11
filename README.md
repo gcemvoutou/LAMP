@@ -7,7 +7,7 @@
 
 ## Présentation du projet
 
-Ce TP, réalisé dans le cadre du **BTS SIO option SISR**, consiste à mettre en place un serveur web **LAMP** sur un Raspberry Pi :
+Ce TP consiste à mettre en place un serveur web **LAMP** sur un Raspberry Pi :
 
 - **L**inux : le système d’exploitation (Raspberry Pi OS) ;
 - **A**pache : le serveur HTTP ;
