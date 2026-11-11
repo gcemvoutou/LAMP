@@ -1,4 +1,4 @@
-# TP LAMP — Linux, Apache, MariaDB, PHP
+# LAMP — Linux, Apache, MariaDB, PHP
 
 ![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-Debian%2013-C51A4A?logo=raspberrypi&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-2.4.68-D22128?logo=apache&logoColor=white)
